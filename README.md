@@ -1,6 +1,6 @@
 # Reviews of Scinetific Articles
 
-This repo is dedicated for my personal revievs of interesting scientific articles, focused but not restricted to bioinformatics.
+This repo is dedicated for my personal reviews of interesting scientific articles, focused but not restricted to bioinformatics.
 
 ## Current reviews:
 
